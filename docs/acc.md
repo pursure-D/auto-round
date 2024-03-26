@@ -24,7 +24,7 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
         <td>Avg.</td>
     </tr>
     <tr>
-        <td rowspan="7">Mistral-7B</td>
+        <td rowspan="7" border="1">Mistral-7B</td>
         <td>FP16</td>
         <td>61.35</td>
         <td>75.68</td>
