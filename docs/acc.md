@@ -129,7 +129,7 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
         <td style="border-bottom: 4px solid black;">49.49</td>
         <td style="border-bottom: 4px solid black;">62.33</b></td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 4px solid black;">
         <td rowspan="7">V2-7B</td>
         <td>FP16</td>
         <td>42.69</td>
