@@ -116,21 +116,18 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
     </tr>
     <tr>
         <td>Ours</td>
-        <td>59.52</td>
-        <td>73.76</td>
-        <td>60.75</td>
-        <td>73.32</td>
-        <td>80.09</td>
-        <td>27.17</td>
-        <td>33.00</td>
-        <td>82.02</td>
-        <td>66.07</td>
-        <td>80.47</td>
-        <td>49.49</td>
-        <td>62.33</b></td>
-    </tr>
-    <tr>
-        <td colspan="13" style="border-top: 4px solid black;"></td>
+        <td style="border-bottom: 4px solid black;">59.52</td>
+        <td style="border-bottom: 4px solid black;">73.76</td>
+        <td style="border-bottom: 4px solid black;">60.75</td>
+        <td style="border-bottom: 4px solid black;">73.32</td>
+        <td style="border-bottom: 4px solid black;">80.09</td>
+        <td style="border-bottom: 4px solid black;">27.17</td>
+        <td style="border-bottom: 4px solid black;">33.00</td>
+        <td style="border-bottom: 4px solid black;">82.02</td>
+        <td style="border-bottom: 4px solid black;">66.07</td>
+        <td style="border-bottom: 4px solid black;">80.47</td>
+        <td style="border-bottom: 4px solid black;">49.49</td>
+        <td style="border-bottom: 4px solid black;">62.33</b></td>
     </tr>
     <tr>
         <td rowspan="7">V2-7B</td>
