@@ -24,7 +24,7 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
         <td>Avg.</td>
     </tr>
     <tr>
-        <td rowspan="7" border="1">Mistral-7B</td>
+        <td rowspan="7">Mistral-7B</td>
         <td>FP16</td>
         <td>61.35</td>
         <td>75.68</td>
@@ -114,7 +114,7 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
         <td>46.42 </td>
         <td>60.52 </td>
     </tr>
-    <tr style="border-bottom: 4px solid black;">
+    <tr style="border-bottom: 4px solid black !important;">
         <td style="border-bottom: 4px solid black;">Ours</td>
         <td style="border-bottom: 4px solid black !important;">59.52</td>
         <td style="border-bottom: 4px solid black !important;">73.76</td>
@@ -127,7 +127,6 @@ For wikitext2/ptb-new/c4-new ppl, we follow the code of gptq and set the sequenc
         <td style="border-bottom: 4px solid black !important;">66.07</td>
         <td style="border-bottom: 4px solid black !important;">80.47</td>
         <td style="border-bottom: 4px solid black !important;">49.49</td>
-        <td style="border-bottom: 4px solid black !important;">62.33</td>
         <td style="border-bottom: 4px solid black !important;">62.33</td>
     </tr>
     <tr>
